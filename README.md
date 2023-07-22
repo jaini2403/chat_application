@@ -1,13 +1,21 @@
 # Welcome to MS Teams Clone!
-#Features
+##Features
 > Compatible with all Javascript frameworks (Vue, Angular, React, etc.) or no framework at all
+
 > Customizeable realtime chat messaging
+
 > Backend agnostic
+
 > Images, videos, files, voice messages & emojis
+
 > Edit messages & reply to other messages
+
 > Tag users & emojis shortcut suggestions
+
 > UI elements for seen, new, deleted, typing and system messages
+
 > Text formatting - bold, italic, strikethrough, underline, code, multiline
+
 > Online / Offline users status
 
 ### [Example Website](https://chat-app-jsmastery.netlify.app)
